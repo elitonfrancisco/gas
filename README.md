@@ -8,5 +8,7 @@ Descrição:  A proposta do projeto é saber ONDE, em qual HORA, QUANDO e sobre 
 O projeto deve ter algumas funções que devem ser implementadas como...
 
 •	Cada pessoa tem que estar cadastrada.
+
 •	Cada pessoa pode montar um ou mais grupo de estudos.
+
 •	A pessoa pode estar em vários grupos.
