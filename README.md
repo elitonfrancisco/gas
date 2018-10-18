@@ -2,7 +2,7 @@
 
 Ferramenta para proporcionar a criação de  Grupos de Estudos.
                         
-# Descrição
+## Descrição
 
  A proposta do projeto é saber ONDE, em qual HORA, QUANDO e sobre qual determinada DISCIPLINA esta disponível para estudar. Assim facilitando os Alunos ou a Pessoas interessadas a estudarem em determinados grupos, ajudando no seu desempenho acadêmico ou particular.
 
