@@ -8,8 +8,8 @@ Ferramenta para proporcionar a criação de  Grupos de Estudos.
 
 O projeto deve ter algumas funções que devem ser implementadas como...
 
-•	Cada pessoa tem que estar cadastrada.
+•	Cada pessoa tem que estar cadastrada;
 
-•	Cada pessoa pode montar um ou mais grupo de estudos.
+•	Cada pessoa pode montar um ou mais grupo de estudos;
 
 •	A pessoa pode estar em vários grupos.
