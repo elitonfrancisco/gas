@@ -1,7 +1,7 @@
 
 <?php 
 
-class Interesado {
+class Interessado {
 
 	public $codigo;
 	public $nome;
