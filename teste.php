@@ -15,7 +15,7 @@ $interessado->validarDados();
 $banco->inserir($interessado);
 
 foreach ($banco->selecionarTodos() as $registro) {
-	echo "Codigo : ". $registro["cod_cliente"] . " | Nome : ". $registro["nome"] ." | CPF : ". $registro["cpf"] ." <br /> ";
+	echo "Codigo : ". $registro["codigo"] . " | Nome : ". $registro["nome"] ." | CPF : ". $registro["cpf"] ." <br /> ";
 };
 
 

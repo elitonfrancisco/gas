@@ -4,12 +4,9 @@
 
 class DBMySQL {
 	
-<<<<<<< HEAD
+
 	protected static $connection;
-=======
-	public static $connection;
->>>>>>> 81c3529b5e39aebb5ee2fdef7e2551d45255b0ce
-	
+
 	public function connect(){
 	
 		if(!isset($this->connection)){
@@ -17,21 +14,17 @@ class DBMySQL {
 			$hostname = "localhost:3306";	
 			$username = "root";
 			$password = "";
-<<<<<<< HEAD
-			$database = "web_bank";
-=======
 			$database = "gas";
->>>>>>> 81c3529b5e39aebb5ee2fdef7e2551d45255b0ce
 			
-			$this->connection = mysqli_connect($hostname, $username, $password, $database);
+			self::$connection = mysqli_connect($hostname, $username, $password, $database);
 			
 		}
 		
-		if($this->connection === false){
+		if(self::$connection === false){
 			return false;
 		}
 		
-		return $this->connection;
+		return self::$connection;
 	}
 	
 	public function query($query){
@@ -62,7 +55,7 @@ class DBMySQL {
 	}
 	
 	public function printError(){
-		echo "Error" . $connection->error;
+		echo "Error" . self::$connection->error;
 	}
 }
 
