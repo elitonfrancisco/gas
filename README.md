@@ -4,11 +4,11 @@ Ferramenta para proporcionar a criação de  Grupos de Estudos.
                         
 ## Descrição
 
- A proposta do projeto é saber **ONDE**, em qual **HORA**, **QUANDO** e sobre qual determinada **DISCIPLINA**/**ASSUNTO** esta disponível para estudar. Assim facilitando os Alunos ou a Pessoas interessadas a estudarem em determinados grupos, ajudando no seu desempenho acadêmico ou particular.
+ A proposta do projeto é saber **ONDE**, em qual **HORA**, **QUANDO** e sobre qual determinada **DISCIPLINA**/**ASSUNTO** esta disponível para estudar. Assim facilitando aos interessados por um determinado assunto, criarem grupos de estudos, ajudando no seu desempenho acadêmico ou particular.
 
 ## Funcionalidades
 
-•	Cada pessoa tem que estar cadastrada;
-•	Cada pessoa pode montar um ou mais grupo de estudos;
-•	A pessoa pode estar em vários grupos;
-• Uma pessoa pode qualificar o grupo de estudos quanto o seu responsavel.
+-	Um interessado deve estar cadastradado no sistema;
+-	Cada interessado poderá montar um ou mais grupo de estudos, como também solicitar a sua participação;
+-	O interessado pode estar participando de vários grupos;
+- Um participando, de um determinado curso, pode qualificar o grupo de estudos quanto o seu responsável.
