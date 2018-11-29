@@ -8,7 +8,7 @@ Ferramenta para proporcionar a criação de  Grupos de Estudos.
 
 ## Funcionalidades
 
-•	Um interessado deve estar cadastradado no sistema;
-•	Cada interessado poderá montar um ou mais grupo de estudos, como também solicitar a sua participação;
-•	O interessado pode estar participando de vários grupos;
-• Um participando, de um determinado curso, pode qualificar o grupo de estudos quanto o seu responsável.
+-	Um interessado deve estar cadastradado no sistema;
+-	Cada interessado poderá montar um ou mais grupo de estudos, como também solicitar a sua participação;
+-	O interessado pode estar participando de vários grupos;
+- Um participando, de um determinado curso, pode qualificar o grupo de estudos quanto o seu responsável.
